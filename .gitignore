@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+**/bin/
+**/obj/
+
+# Logs
+*.log
+
+# Angular / Node
+clinichub-web/node_modules/
+clinichub-web/dist/
+clinichub-web/.angular/
+clinichub-web/.cache/
+
+# Environment files
+*.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
